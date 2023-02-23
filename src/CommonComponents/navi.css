@@ -1,0 +1,14 @@
+.searchForm{
+    display: inline-flex;
+}
+.mr-sm-2{
+    width: 281px;
+    margin-right: 5px;
+}
+.mr-auto {
+    width: 767px;
+}
+.naviWrap{
+    padding: 1.2rem 1.6rem;
+    justify-content: center;
+}
