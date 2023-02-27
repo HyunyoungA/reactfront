@@ -8,7 +8,7 @@ function DarkVariantExample() {
     const styleObj = {
       height: "600px",
       overflow: "hidden",
-      position: "absolute",
+      // position: "absolute",
       width: "100%"
     }
 

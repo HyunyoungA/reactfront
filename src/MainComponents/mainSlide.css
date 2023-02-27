@@ -1,6 +1,6 @@
 .carousel-caption {
-    position: fixed;
-    margin-bottom: 360px;
+    position: absolute;
+    margin-bottom: 660px;
     text-align: left;
 }
 .title{
