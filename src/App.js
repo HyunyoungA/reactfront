@@ -1,7 +1,7 @@
 import './App.css';
 // import React, {useState, useEffect} from 'react';
-import Navigation from './CommonComponents/navi';
-import MainSlide from './CommonComponents/mainSlide';
+import Navigation from './MainComponents/navi';
+import MainSlide from './MainComponents/mainSlide';
 
 function App() {
     
