@@ -1,5 +1,11 @@
+.subTitle{
+    color: gray;
+    text-align: center;
+    padding-top: 5rem;
+    font-weight: bold;
+}
 .InfoTitle{
     text-align: center;
-    margin: 40px 0;
+    margin: 10px 0 35px 0;
     font-weight: bold;
 }

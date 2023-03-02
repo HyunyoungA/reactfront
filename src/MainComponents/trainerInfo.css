@@ -1,5 +1,40 @@
 .Card{
-    background-color: #F6F6F6;
+    background-color: white;
     width: 18rem;
     border: none;
+    box-shadow: rgba(191, 197, 202, 0.38) 0px 4px 8px;
+}
+.CardWrap{
+    display: flex;
+    padding: 30px 100px 100px 100px;
+    justify-content: space-around;
+}
+.card-img-top{
+    height: 300px;
+    width: auto;
+    object-fit: cover;
+}
+.btn-primary {
+    --bs-btn-bg:#0dcaf0;
+    --bs-btn-disabled-border-color: none;
+    --bs-btn-border-color: none;
+    --bs-btn-hover-bg: black;
+}
+.gender{
+    display: inline-block;
+    margin: 3px;
+    width: 60px;
+    height: 32px;
+    background-color: white;
+    border: 1px solid #D5D5D5;
+    border-radius: 25px;
+    text-align: center;
+    padding: 3px;
+}
+.gender:hover{
+    background-color: #F2F2F2;
+    cursor: pointer;
+}
+.genderWrap{
+    text-align: center;
 }
