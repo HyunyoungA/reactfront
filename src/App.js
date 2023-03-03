@@ -4,6 +4,8 @@ import Navigation from './MainComponents/navi';
 import MainSlide from './MainComponents/mainSlide';
 import Info from './MainComponents/trainerInfo';
 import Review from './MainComponents/review';
+import Footer from './MainComponents/footer';
+
 
 function App() {
     
@@ -33,6 +35,7 @@ function App() {
           <h1 className='InfoTitle'>인기 리뷰😎</h1>
           <Review />
         </div>
+        <Footer/>
         {/* <ul>
           백엔드:{message.map((v,idx)=><li key={`${idx}-${v}`}>{v}</li>)}
         </ul> */}
